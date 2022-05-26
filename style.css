@@ -1,0 +1,38 @@
+#ins{
+    float:right
+}
+
+div:nth-child(1){
+    width: 100%;
+}
+h1{
+    text-align:left;
+}
+
+body{
+    background-image: url("background.jpg");
+}
+
+.modal-dialog{
+    width: 80%;
+}
+
+.ins-img{
+   width: 45%; 
+   display:inline-block;
+}
+
+#footer{
+    position: sticky;
+    bottom: 0px;
+    background-color: beige;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
